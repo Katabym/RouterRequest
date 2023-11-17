@@ -1,6 +1,6 @@
 from funcscl import inBase, lastRow, allData, getGifnum, getKeyword, getLink
 from funcscl import CreateRequestsTable, CreateIMGTable, Fill_keyword_ids, UpdateLink
-from words import data_set
+#from words import data_set
 
 #   Функции для настройки БД
 # Создание таблицы images
